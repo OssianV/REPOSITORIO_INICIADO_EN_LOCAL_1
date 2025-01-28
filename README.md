@@ -4,4 +4,4 @@
 
 Elimine la oracion previamente definida.
 
-**Linea agregada para que haya un merge conflict cuando otro usuario haga un pull request a traves de Github**
+**Linea agregada para que haya un merge conflict cuando otro usuario haga un pull request a traves de Github** 4ta adicion

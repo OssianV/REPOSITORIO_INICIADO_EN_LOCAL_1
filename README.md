@@ -12,3 +12,10 @@ Oracion agregada desde otra cuenta que hizo fork a mi repositorio. Hara conflict
 conflicto arreglado
 
 **Linea extra**
+
+*italicas*
+
+**negritas**
+
+> blockquotes
+
